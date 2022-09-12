@@ -21,3 +21,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## __License__
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## **Patika Profilim**
+[akgnvahit](https://app.patika.dev/akgnvahit)
